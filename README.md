@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python, Machine learning**
 
 - 📫 How to reach me **neeerajkirar645@gmail.com**
-- 📫 Portfolio is here *[Portfolio website](https://www.pythonanywhere.com)
+- 📫 Portfolio is here *[Portfolio website](https://neeraj645.pythonanywhere.com/)
 
 
 <h3 align="left">Connect with me:</h3>
