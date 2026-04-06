@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Neeraj Rajput</h1>
 <h3 align="center">🚀 Backend Developer | Node.js | Scalable Systems | DevOps Learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
----
+<table>
+<tr>
+<td width="60%">
 
 ### 👨‍💻 About Me
+- 🔥 Backend Developer with real-world production experience  
+- ⚡ Building scalable APIs using **Node.js, Express, Sequelize & MongoDB**  
+- 💳 Integrated **Razorpay Payments & Webhooks**  
+- 🚚 Worked with **Shiprocket API (Order & Shipping)**  
+- 🔐 Implemented **JWT Auth, OTP Verification & Security Best Practices**  
+- ⚙️ Experienced with **Redis, ImageKit, Cloudinary**  
+- 🌐 Deployment using **AWS EC2, Nginx, PM2**  
+- 📦 Built production-level **E-commerce & Service Booking Systems**  
+- 🚀 Currently learning **DevOps & System Design**
 
-* 🔥 Backend Developer with real-world production experience
-* ⚡ Building scalable APIs using **Node.js, Express, Sequelize & MongoDB**
-* 💳 Integrated **Razorpay Payments & Webhooks**
-* 🚚 Worked with **Shiprocket API (Order & Shipping)**
-* 🔐 Implemented **JWT Auth, OTP Verification & Security Best Practices**
-* ⚙️ Experienced with **Redis, ImageKit, Cloudinary**
-* 🌐 Deployment using **AWS EC2, Nginx, PM2**
-* 📦 Built production-level **E-commerce & Service Booking Systems**
-* 🚀 Currently learning **DevOps & System Design**
+</td>
 
+<td width="40%">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 ---
 
 ### 📫 Contact Me
