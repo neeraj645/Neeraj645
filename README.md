@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Neeraj Rajput</h1>
-<h3 align="center">🚀 Backend Developer | Node.js | Scalable Systems | DevOps Learner</h3>
+<h3 align="center">🚀 Backend Developer | 1+ Year Exp. | Node.js | Scalable Systems | DevOps Learner</h3>
 
+<br>
 
 <table>
 <tr>
 <td width="60%">
 
 ### 👨‍💻 About Me
-- 🔥 Backend Developer with real-world production experience  
-- ⚡ Building scalable APIs using **Node.js, Express, Sequelize & MongoDB**  
-- 💳 Integrated **Razorpay Payments & Webhooks**  
-- 🚚 Worked with **Shiprocket API (Order & Shipping)**  
-- 🔐 Implemented **JWT Auth, OTP Verification & Security Best Practices**  
-- ⚙️ Experienced with **Redis, ImageKit, Cloudinary**  
-- 🌐 Deployment using **AWS EC2, Nginx, PM2**  
-- 📦 Built production-level **E-commerce & Service Booking Systems**  
+
+- 🔥 **Backend Developer** with real-world production experience
+- ⚡ Building scalable APIs using **Node.js, Express, Sequelize & MongoDB**
+- 💳 Integrated **Razorpay Payments & Webhooks**
+- 🚚 Worked with **Shiprocket API (Order & Shipping)**
+- 🔐 Implemented **JWT Auth, OTP Verification & Security Best Practices**
+- ⚙️ Experienced with **Redis, ImageKit, Cloudinary**
+- 🌐 Deployment using **AWS EC2, Nginx, PM2**
+- 📦 Built production-level **E-commerce & Service Booking Systems**
 - 🚀 Currently learning **DevOps & System Design**
 
 </td>
@@ -25,20 +27,22 @@
 
 </tr>
 </table>
+
 ---
 
 ### 📫 Contact Me
 
-* 📧 Email: **[neeerajkirar645@gmail.com](mailto:neeerajkirar645@gmail.com)**
-* 🌐 Portfolio: [Portfolio Website](https://neeraj645.pythonanywhere.com/)
+- 📧 **Email:** [neeerajkirar645@gmail.com](mailto:neeerajkirar645@gmail.com)
+- 📞 **Phone:** +91 8770475416
+- 🌐 **Portfolio:** [neeraj-rajput.vercel.app](https://neeraj-rajput.vercel.app/)
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/neeraj-rajput-254318221" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/neeraj-rajput-254318221" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -47,60 +51,57 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Backend
-
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
 #### 🗄️ Database
-
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
 </p>
 
-#### ⚙️ Tools & Services
-
+#### ⚙️ Tools & DevOps
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
 </p>
 
 ---
 
-### 💼 Projects
+### 💼 Featured Projects
 
-* 🛒 **E-commerce Backend**
-
-  * Authentication, Orders, Payments, Refunds, Webhooks
-* 🧾 **Service Booking App (Real-time)**
-
-  * Socket.io, Location-based provider matching
-* 📰 **Blog Platform with SEO Optimization**
-* ⚡ **Production Recharge App Optimization**
+| Project | Key Features |
+|---------|---------------|
+| 🛒 **E-commerce Backend** | Auth, Orders, Payments, Refunds, Webhooks |
+| 🧾 **Service Booking App** | Socket.io, Real-time, Location-based matching |
+| 📰 **Blog Platform** | SEO optimized, Content management |
+| ⚡ **Recharge App** | Production optimization, High performance |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=neeraj645&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj645&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neeraj645&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj645&theme=radical" />
 </p>
 
 ---
 
-### 🧠 Current Focus
+### 🧠 Current Learning Focus
 
-* DevOps (CI/CD, Docker, Kubernetes)
-* System Design
-* High-scale backend architecture
+> **DevOps (CI/CD, Docker, Kubernetes)** • **System Design** • **High-Scale Backend Architecture**
 
 ---
 
-⭐️ *Always learning, always building!*
+<p align="center">
+  ⭐️ <i>Always learning, always building!</i>
+</p>
